@@ -1,0 +1,5 @@
+git has 3 stages
+
+1. files not tracked/unstaged
+2. files staged/tracked
+3. files committed
